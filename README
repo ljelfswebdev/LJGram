@@ -1,0 +1,14 @@
+.env file
+
+ADD
+
+
+PORT=8002
+DATABASE_URL=********************(String from Mongo DB)************************
+CLIENT_URL=http://localhost:3000
+
+JWT_SECRET=**************************(ANY RANDOM LETTERS)********************
+
+CLOUDINARY_NAME=***************cloudinary username*****************
+CLOUDINARY_KEY=****************cloudinary key *********************
+CLOUDINARY_SECRET=*************cloudinary secret*******************
